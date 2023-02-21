@@ -1,4 +1,4 @@
-[Banner](https://i.postimg.cc/44KbvK6H/me.png)
+
 <!--
 **Buktopy/Buktopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
