@@ -11,6 +11,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
+
+<p alight="center"># Связь со мной</p>
+
 <!--
 **Buktopy/Buktopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
