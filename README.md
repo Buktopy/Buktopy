@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/114674153/220403872-4caf8ffd-873a-4b7e-8aa1-ff875c06c078.png)
-)
 <!--
 **Buktopy/Buktopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
