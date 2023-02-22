@@ -3,7 +3,7 @@
 ## Кто я такой и что здесь делаю?
   Я студент Яндекс Практикума, решивший связать свою жизнь с IT-технологиями. Живу во Владимире и в данный момент все мои силы направлены на овладение магией под названием ✨Java Script✨ и всеми другими инструментами, которые помогут мне влиться в мир программирования. У меня уже есть некоторые интересные проекты, над которыми я в данный момент работаю(Можно ознакомиться с моими репозиториями!). Останавливаться не собираюсь, знаний становится все больше и больше!
 
-# Какие технологии я использую:
+## Какие технологии я использую:
 <p align="left">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
@@ -13,7 +13,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&fill=red&logo=git">
 </p>
 
-# Связь со мной
+## Связь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/BuktopWin)](https://t.me/BuktopWin) [![Vkontakte](https://img.shields.io/badge/Вконтакте-1976D2?style=for-the-badge&logo=VK&logoColor=white&link=https://vk.com/buktopwin)](https://vk.com/buktopwin)
 <!--**Buktopy/Buktopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
