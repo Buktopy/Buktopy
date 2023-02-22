@@ -10,6 +10,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=red&logo=git">
 </p>
 
 # Связь со мной
