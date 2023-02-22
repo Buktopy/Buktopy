@@ -11,8 +11,10 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
-<!--
-**Buktopy/Buktopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Связь со мной
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/BuktopWin)](https://t.me/BuktopWin) [![Vkontakte](https://img.shields.io/badge/Вконтакте-1976D2?style=for-the-badge&logo=VK&logoColor=white&link=https://vk.com/buktopwin)](https://vk.com/buktopwin)
+<!--**Buktopy/Buktopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
