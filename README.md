@@ -11,7 +11,7 @@
 </p>
 
 ## Связь со мной
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/BuktopWin)](https://t.me/BuktopWin) [![Vkontakte](https://img.shields.io/badge/Вконтакте-1976D2?style=for-the-badge&logo=VK&logoColor=white&link=https://vk.com/buktopwin)](https://vk.com/buktopwin)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/BuktopWin)](https://t.me/BuktopWin)
 <!--**Buktopy/Buktopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
